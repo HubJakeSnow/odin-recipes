@@ -1,0 +1,32 @@
+.heading {
+    text-align: center;
+    font-size: 48px;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+}
+* {
+    background-color: rgb(15, 66, 235);
+}
+
+div {
+    text-align: center;
+}
+
+.recipes {
+    font-size: 28px;
+    font-weight: 400;
+    color: white;
+    display: block;
+}
+
+.madras {
+    text-align: center;
+}
+
+.butter-curry {
+    text-align: left;
+}
+
+.skins {
+    text-align: right;
+}
